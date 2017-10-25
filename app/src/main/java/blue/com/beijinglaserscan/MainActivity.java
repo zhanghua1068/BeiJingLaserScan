@@ -67,6 +67,7 @@ public class MainActivity extends Activity implements OnClickListener, OnTouchLi
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         judgePropert();
+        //hahahhaha
         btnSingleScan = (Button) findViewById(R.id.buttonscan);
         btnClear = (Button) findViewById(R.id.buttonclear);
         btnTest = (Button) findViewById(R.id.buttontest);
